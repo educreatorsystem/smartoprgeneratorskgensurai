@@ -1,0 +1,25 @@
+{
+  "name": "SMART OPR GENERATOR — SEKOLAH KEBANGSAAN GENSURAI",
+  "short_name": "OPR SK Gensurai",
+  "description": "Sistem Jana One Page Report SEKOLAH KEBANGSAAN GENSURAI",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf6ff",
+  "theme_color": "#0b4389",
+  "icons": [
+    {
+      "src": "https://iili.io/nvOJa4t.md.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://iili.io/nvOJa4t.md.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
